@@ -273,7 +273,7 @@ const MembershipRegistrationForm = () => {
             {/* 👇 Small Button for Rules & Regulations Page */}
             <button
               type="button"
-              onClick={() => navigate("/rules-and-regulations")}
+              onClick={() => navigate("/rules")}
               className="mt-6 text-blue-600 underline text-sm hover:text-blue-800"
             >
               View Rules & Regulations
